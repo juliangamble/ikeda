@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<jnlp <!-- codebase="http://sites.google.com/site/juliangamble/Home/"  -->
-      codebase="file:///C:/Users/julian/Documents/Projects/Ikeda/" 
+<jnlp  codebase="http://sites.google.com/site/juliangamble/Home/"  
+   
       href="ikeda.jnlp"> 
   <information>
     <title>Beauty of the mathematics of a sinkhole - captured in a Clojure GUI</title>
