@@ -1,10 +1,11 @@
-Clojure Penumbra Examples
+Idea Clojure GUI Demo. 
+Beauty of the mathematics of a sinkhole - captured in a Clojure GUI
 
-You can read more about this here:
-http://juliangamble.com/blog/2012/01/24/clojure-gui-demo-of-fluid-mechanics/
-http://juliangamble.com/blog/2012/02/03/clojure-gui-demo-of-3d-teapot/
+[Lau B. Jensen](http://www.bestinclass.dk/kontakt.html) wrote an amazing blog post 
+[called Theory vs Clojure](http://www.bestinclass.dk/index.clj/2009/09/chaos-theory-vs-clojure.html)
 
-This site packages these up for Web Start. 
+Here he described how to develop in Clojure a discrete-time dynamic system called An Ikeda map. 
 
-The point here is to add Java Web start to enable it to be demoed to a wider audience
-and promote the clojure community.
+Rich Hickey then submitted his improvements to the code. This demo is Rich Hickey's version. 
+
+
