@@ -8,4 +8,5 @@ Here he described how to develop in Clojure a discrete-time dynamic system calle
 
 Rich Hickey then submitted his improvements to the code. This demo is Rich Hickey's version. 
 
+You can read about this project here: http://juliangamble.com/blog/2012/03/04/clojure-gui-demo-of-ikeda-map-sinkhole/
 
